@@ -1170,5 +1170,5 @@
 *://www.ixigua.com/*
 *://lucearow.com/*
 *://nhfsj.com/*
-*://www.gitmemory.com/*
+*://*.gitmemory.com/*
 *://githubmemory.com/*
