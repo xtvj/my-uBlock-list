@@ -1172,3 +1172,4 @@
 *://nhfsj.com/*
 *://*.gitmemory.com/*
 *://githubmemory.com/*
+*://*.giters.com/*
