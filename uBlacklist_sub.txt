@@ -1173,3 +1173,5 @@
 *://*.gitmemory.com/*
 *://githubmemory.com/*
 *://*.giters.com/*
+*://www.itread01.com/*
+*://www.cxyzjd.com/*
