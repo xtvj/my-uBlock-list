@@ -1175,3 +1175,5 @@
 *://*.giters.com/*
 *://www.itread01.com/*
 *://www.cxyzjd.com/*
+*://www.shuzhiduo.com/*
+*://softwarebrother.com/*
