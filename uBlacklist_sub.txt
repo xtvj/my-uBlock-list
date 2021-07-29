@@ -1177,3 +1177,4 @@
 *://www.cxyzjd.com/*
 *://www.shuzhiduo.com/*
 *://softwarebrother.com/*
+*://chowdera.com/*
