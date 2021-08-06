@@ -1178,3 +1178,5 @@
 *://www.shuzhiduo.com/*
 *://softwarebrother.com/*
 *://chowdera.com/*
+*://www.busrb.com/*
+*://wantubizhi.com/*
