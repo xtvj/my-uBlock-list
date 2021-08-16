@@ -1180,3 +1180,10 @@
 *://chowdera.com/*
 *://www.busrb.com/*
 *://wantubizhi.com/*
+*://twagoda.com/*
+*://*.taobao.com/*
+*://*.weibo.com/*
+*://*.teapm.com/*
+*://*.mhzs.net/*
+*://*.co-far.com/*
+*://*.dyb7.com/*
