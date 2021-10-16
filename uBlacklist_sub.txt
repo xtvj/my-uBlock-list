@@ -1159,7 +1159,6 @@
 *://*.xinhuanet.com/*
 *://*.people.com.cn/*
 *://*.baidu.com/*
-*://*.xinhuanet.com/*
 *://betty-harrisd9614.web.app/*
 *://www.ws-dla.com/*
 *://www.yanxx.com/*
