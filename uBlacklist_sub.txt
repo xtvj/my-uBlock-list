@@ -1205,3 +1205,12 @@
 *://swu.myujob.com/*
 *://*.ybbzipper.com/*
 *://*.www2011india.com/*
+*://*.bilibili.com/*
+*://*.douban.com/*
+*://*.weibo.cn/*
+*://*.qq.com/*
+*://*.jd.com/*
+*://*.1688.com/*
+*://*.163.com/*
+*://*.aliyun.com/*
+*://*.sohu.com/*
