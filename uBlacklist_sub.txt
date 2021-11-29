@@ -1232,3 +1232,12 @@
 *://*.cloud.tencent.com/*
 *://*.codeleading.com/*
 *://*.vimsky.com/*
+*://*.cuoshuo.com/*
+*://*.easyatm.com.tw/*
+*://*.daimajiaoliu.com/*
+*://*.ithelp.ithome.com.tw/*
+*://*.iter01.com/*
+*://*.icode9.com/*
+*://*.wangt.cc/*
+*://*.its201.com/*
+*://159.138.37.243/*
