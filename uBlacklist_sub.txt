@@ -1264,3 +1264,13 @@
 *://*.tdtxt.cn/*
 *://*.stackscn.com/*
 *://*.coddingbuddy.com/*
+*://*.digwow.net/*
+*://*.ifenpaidy.com/*
+*://*.codeantenna.com/*
+*://*.soluotv.com/*
+*://*.gaoqingfangchan.com/*
+*://*.iqiyi.com/*
+*://*.outwindows.com/*
+*://*.zhongheyake.com/*
+*://*.dlkoo.cc/*
+*://*.cctv.com/*
