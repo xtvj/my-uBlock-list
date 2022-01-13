@@ -1274,3 +1274,7 @@
 *://*.zhongheyake.com/*
 *://*.dlkoo.cc/*
 *://*.cctv.com/*
+*://*.coderedirect.com/*
+*://*.androidwd.cc/*
+*://*.1024sou.com/*
+*://*.its301.com/*
