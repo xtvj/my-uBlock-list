@@ -1278,3 +1278,8 @@
 *://*.androidwd.cc/*
 *://*.1024sou.com/*
 *://*.its301.com/*
+*://*.zaobao.com.sg/*
+*://*.coolcxy.com/*
+*://*.jiligamefun.com/*
+*://iask.sina.com.cn/*
+*://*.wenda.so.com/*
