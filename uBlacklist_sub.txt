@@ -1283,3 +1283,13 @@
 *://*.jiligamefun.com/*
 *://iask.sina.com.cn/*
 *://*.wenda.so.com/*
+*://*.fmusick.com/*
+*://*.vzyclub.com/*
+*://*.yudouyudou.com/*
+*://*.liyiai.com/*
+*://*.zhulincat.com/*
+*://*.dewt10.blogspot.com/*
+*://*.12bt.net/*
+*://*.dtshot.com/*
+*://*.hifizu.com/*
+*://*.alipanyou.com/*
