@@ -1293,3 +1293,10 @@
 *://*.dtshot.com/*
 *://*.hifizu.com/*
 *://*.alipanyou.com/*
+*://*.cainiaojc.com/*
+*://*.xiaotus.com/*
+*://*.yht7.com/*
+*://*.ksou.cc/*
+*://*.githubhot.com/*
+*://*.msfxt.com/*
+*://www.4k8k.xyz/*
