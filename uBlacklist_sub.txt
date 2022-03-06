@@ -1299,4 +1299,6 @@
 *://*.ksou.cc/*
 *://*.githubhot.com/*
 *://*.msfxt.com/*
-*://www.4k8k.xyz/*
+*://*.4k8k.xyz/*
+*://*.debugease.com/*
+*://*.shangmayuan.com/*
