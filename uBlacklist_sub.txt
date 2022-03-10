@@ -1302,3 +1302,4 @@
 *://*.4k8k.xyz/*
 *://*.debugease.com/*
 *://*.shangmayuan.com/*
+*://*.huawei.com/*
