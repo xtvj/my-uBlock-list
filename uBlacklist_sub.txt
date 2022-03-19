@@ -1303,3 +1303,7 @@
 *://*.debugease.com/*
 *://*.shangmayuan.com/*
 *://*.huawei.com/*
+*://*.pbup.cc/*
+*://*.jssyydsf.cn/*
+*://*.sina.com.cn/*
+*://*.chinadaily.com.cn/*
