@@ -1307,3 +1307,8 @@
 *://*.jssyydsf.cn/*
 *://*.sina.com.cn/*
 *://*.chinadaily.com.cn/*
+*://*.zztongyun.com/*
+*://*.cctv.cn/*
+*://*.codegrepper.com/*
+*://*.taofx.cc/*
+*://*.msomimaktaba.com/*
