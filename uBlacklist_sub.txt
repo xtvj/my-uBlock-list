@@ -1342,3 +1342,6 @@
 *://*.mesextoy.com/*
 *://*.yunpanziyuan.com/*
 *://*.xerer.com/*
+*://*.genuineactivator.com/*
+*://*.youku.com/*
+*://*.1r1g.cn/*
