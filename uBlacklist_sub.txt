@@ -1345,3 +1345,7 @@
 *://*.genuineactivator.com/*
 *://*.youku.com/*
 *://*.1r1g.cn/*
+*://*.orcode.com/*
+*://*.zditect.com/*
+*://*.toutiao.com/*
+*://*.zhangshengrong.com/*
