@@ -1349,3 +1349,11 @@
 *://*.zditect.com/*
 *://*.toutiao.com/*
 *://*.zhangshengrong.com/*
+*://*.crifan.com/*
+*://*.codertw.com/*
+*://*.nonseisolo.eu/*
+*://blog.51cto.com/topic/*
+*://*.runebook.dev/*
+*://*.pornhub.com/*
+*://*.796t.com/*
+*://*.fdf42.com/*
