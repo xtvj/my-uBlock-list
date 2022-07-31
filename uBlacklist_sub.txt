@@ -1357,3 +1357,11 @@
 *://*.pornhub.com/*
 *://*.796t.com/*
 *://*.fdf42.com/*
+*://*.zhipin.com/*
+*://*.programminghunter.com/*
+*://*.yisu.com/*
+*://*.toutiao.io/*
+*://*.cdmana.com/*
+*://*.dazhuanlan.com/*
+*://*.androidcookie.com/*
+*://*.dovov.com/*
