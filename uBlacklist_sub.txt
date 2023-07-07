@@ -1375,3 +1375,15 @@
 *://*.iteye.com/*
 *://*.ruiwen.com/*
 *://*.douyin.com/*
+*://*.361shipin.com/*
+*://*.fdf55.com/*
+*://*.774.gs/*
+*://*.icode.best/*
+*://*.bountysource.com/*
+*://*.oschina.net/*
+*://*.juejin.cn/s/*
+*://*.iteye.com/*
+*://*.ruiwen.com/*
+*://*.douyin.com/*
+*://*.siteindices.com/*
+*://*.indianhomehealthcare.com/*
