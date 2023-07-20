@@ -1387,3 +1387,4 @@
 *://*.douyin.com/*
 *://*.siteindices.com/*
 *://*.indianhomehealthcare.com/*
+*://*.qiniu.com/*
