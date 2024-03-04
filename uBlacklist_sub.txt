@@ -1388,3 +1388,11 @@
 *://*.siteindices.com/*
 *://*.indianhomehealthcare.com/*
 *://*.qiniu.com/*
+*://*.volcengine.com/*
+*://*.jdmm.cc/*
+*://*.yimenapp.com/*
+*://*.518doc.com/*
+*://*.codepen.io/*
+*://*.ajihuo.com/*
+*://*.12315s.com/*
+*://*.lianxiaode.com/*
